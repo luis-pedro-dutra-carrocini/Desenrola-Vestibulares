@@ -1,0 +1,25 @@
+body {
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  background-color: #08193D;
+}
+
+.navbar-brand img{
+  width: 90px;
+  height: 70px;
+}
+
+.btn{
+  border-color: #8EAFF2;
+  color: #8EAFF2;
+}
+
+.btn:hover{
+  border-color: #08193D;
+  color: #08193D;
+  background-color: #8EAFF2;
+}
